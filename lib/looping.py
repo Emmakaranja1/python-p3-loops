@@ -12,6 +12,7 @@ def happy_new_year():
 
 def square_integers(int_list):
     # code goes here!
+    return [integer ** 2 for integer in int_list]
     pass
 
 
